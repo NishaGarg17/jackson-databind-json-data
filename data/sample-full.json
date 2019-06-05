@@ -1,6 +1,6 @@
 {
 	"id": 14,
-	"firsName": "Mario",
+	"firstName": "Mario",
 	"lastName": "Rossi",
 	"active": true,
 	"address": {
@@ -15,5 +15,7 @@
 		"C#",
 		"Phython",
 		"Javascript"
-	]
+	],
+	"hobbies": ["Listning Music", "Watching Movies", "Novel Reading"],
+	"company": "WOLTERSKLUWER"
 }
